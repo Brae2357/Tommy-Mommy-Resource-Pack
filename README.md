@@ -33,6 +33,7 @@ NOTE: You can test it on certain players by going to File -> Preferences -> Sett
 ### How to upload your model
 You need two files: model (json) and texture (png)  
 To get your model file, go to File -> Export -> Export Block/Item Model  
+EXTREMELY IMPORTANT: Go into the model json file and add `item/carved_pumpkin/` in front of your model name for `texture: 0` (EX: "0": "my_model" -> "0": "item/carved_pumpkin/my_model")   
 To get your texture, go to the `Edit` tab, right click on your texture (left panel) -> Save As (Make sure it matches your project name)  
 Add your model file to `/models/` and your texture file to `/textures/`  
 Once both are added, run the updater and reload your resources in Minecraft. To get your model, rename a pumpkin to your model name, adding capitals and removing underspaces (EX: `My Model` if your files were `my_model.json` and `my_model.png`)  
