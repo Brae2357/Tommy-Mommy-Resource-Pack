@@ -35,4 +35,4 @@ You need two files: model (json) and texture (png)
 To get your model file, go to File -> Export -> Export Block/Item Model  
 To get your texture, go to the `Edit` tab, right click on your texture (left panel) -> Save As (Make sure it matches your project name)  
 Add your model file to `/models/` and your texture file to `/textures/`  
-Once both are added, run the updater and reload your resources in Minecraft. To get your model, rename a pumpkin to your model name (EX: my_model if your files were my_model.json and my_model.png)  
+Once both are added, run the updater and reload your resources in Minecraft. To get your model, rename a pumpkin to your model name, adding capitals and removing underspaces (EX: `My Model` if your files were `my_model.json` and `my_model.png`)  
