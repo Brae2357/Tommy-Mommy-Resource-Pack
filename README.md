@@ -3,11 +3,12 @@ The Tommy Mommy server resource pack for adding custom models and things.
 ## Overview
 The Tommy Mommy Resource Pack repository allows you to add custom textures and models into the realm without needing a datapack. By uploading a model, it will automatically compile the resource pack for everyone to use, just by clicking update on the TM Resource Pack Updater.
 ## Setting up the resource pack
-1. Download the TMRPUpdater.exe
-2. Run the executable
-3. Click the update button
-4. Open Minecraft -> Options -> Resource Packs -> enable Tommy Mommy Resource Pack
-5. Whenever someone adds to the pack, launch the updater and click update (F3 + t reloads resources in game)
+1. Download the TMRPUpdater.msi
+2. Run the installer (this will go very fast and create a shortcut on your desktop)
+3. Open the newly created shortcut (TMRPUpdater)
+4. Click the update button
+5. Open Minecraft -> Options -> Resource Packs -> enable Tommy Mommy Resource Pack
+6. Whenever someone adds to the pack, launch the updater and click update (F3 + t reloads resources in game)
 ## How to upload models
 1. Become a collaborater (talk to Braeden)
 2. Create a model and texture (I recommend using BlockBench, more details below)
